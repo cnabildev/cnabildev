@@ -11,8 +11,7 @@ Skills: HTML / CSS / SASS / Bootstrap / Tailwind CSS / Javascript / Vue JS / PHP
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cnabilhub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cnabil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nabiluser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/cnabiltweet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/cnabil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/cnabil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cnabil.com/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnabilhub)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cnabilhub&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/cnabilhub)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnabilhub)](https://github.com/anuraghazra/github-readme-stats)
+
