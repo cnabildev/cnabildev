@@ -1,32 +1,167 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nabil
-=============================================================================================================================
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nabil+Mouhssine;Full+Stack+Software+Engineer;TALL+Stack+Specialist;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-Full Stack Web Developer
-------------------------
-
-Hi, I'm Nabil, a Full Stack Web Developer with 5+ years of experience delivering high-performance and secure web solutions. Driven by a passion for innovation, I tackle daily coding challenges to sharpen my skills and stay at the forefront of emerging technologies. I specialize in crafting efficient, secure, and optimized web applications that exceed functionality expectations while ensuring robust protection against potential threats.
-
-* 🌍  I'm based in Morocco
-* ✉️  You can contact me at [hi@cnabil.dev](mailto:hi@cnabil.dev)
-* 🧠  I'm learning JAVA
-* 🤝  I'm open to collaborating on Open Source projects
-
-### Skills
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-### Socials
-
-<p align="left"> 
-  <a href="https://www.dev.to/cnabildev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/cnabildev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/cnabildev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/cnabildev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://cnabil.dev/feed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/cnabildev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> 
-  </a></p>
+<div align="center">
   
-### Badges
+  [![Portfolio](https://img.shields.io/badge/Portfolio-cnabil.dev-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cnabil.dev)
+  [![Email](https://img.shields.io/badge/Email-hi@cnabil.dev-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@cnabil.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-cnabildev-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cnabildev)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-cnabildev-0891b2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/cnabildev/)
 
-<b> My GitHub Stats </b>
+</div>
 
-<a href="http://www.github.com/cnabildev"><img src="https://github-readme-stats.vercel.app/api?username=cnabildev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cnabildev's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/cnabildev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cnabildev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🚀 About Me
+
+```php
+<?php
+
+namespace App\Developers;
+
+class NabilMouhssine extends SoftwareEngineer
+{
+    public function __construct()
+    {
+        $this->name = "Nabil Mouhssine";
+        $this->role = "Full Stack Software Engineer";
+        $this->location = "Tétouan, Morocco 🇲🇦";
+        $this->experience = "7+ years";
+    }
+
+    public function getSpecialization(): array
+    {
+        return [
+            'stack' => 'TALL (Tailwind, Alpine.js, Laravel, Livewire)',
+            'focus' => 'High-performance, enterprise-grade web applications',
+            'passion' => 'Competitive Programming & Problem Solving'
+        ];
+    }
+
+    public function getCurrentFocus(): array
+    {
+        return [
+            '🔭' => 'Building scalable SaaS applications',
+            '🌱' => 'Preparing for AWS Cloud Practitioner certification',
+            '👯' => 'Open to collaborating on Open Source projects',
+            '💡' => 'Solving algorithmic challenges daily',
+            '📚' => 'Pursuing European Bachelor\'s in IT Development'
+        ];
+    }
+
+    public function getAchievements(): array
+    {
+        return [
+            'algorithms' => '600+ problems solved',
+            'production_apps' => '50+ deployed',
+            'clients' => '30+ enterprise clients',
+            'open_source' => '15+ contributions'
+        ];
+    }
+}
+```
+
+## 💼 Professional Highlights
+
+<div align="center">
+
+| 🧩 Algorithm Problems | 💻 Production Apps | 👥 Enterprise Clients | 🌟 Open Source |
+|:---:|:---:|:---:|:---:|
+| **600+** | **50+** | **30+** | **15+** |
+| Solved | Deployed | Served | Contributions |
+
+</div>
+
+## 🛠️ Tech Stack
+
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+
+### Database & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Testing & Quality
+![Pest](https://img.shields.io/badge/Pest-FF6E42?style=for-the-badge&logo=php&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+## 📊 GitHub Analytics
+
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cnabildev&theme=react-dark&hide_border=true&bg_color=1F222E&color=0891b2&line=0891b2&point=F8F8F2" alt="Contribution Graph"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cnabildev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cnabildev/)
+[![GitHub](https://img.shields.io/badge/GitHub-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cnabildev)
+[![Twitter](https://img.shields.io/badge/Twitter-0891b2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cnabildev)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0891b2?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cnabildev)
+[![Medium](https://img.shields.io/badge/Medium-0891b2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cnabildev)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0891b2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/cnabildev)
+[![RSS Feed](https://img.shields.io/badge/RSS-0891b2?style=for-the-badge&logo=rss&logoColor=white)](https://cnabil.dev/feed)
+
+</div>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🤝 Open to Opportunities
+
+I'm always interested in collaborating on innovative projects, especially in:
+- 🚀 **SaaS Development** - Building scalable cloud applications
+- 🛠️ **Open Source** - Contributing to impactful projects
+- 💼 **Freelance Work** - Complex web application development
+- 📚 **Mentoring** - Helping developers level up their skills
+
+**Let's build something amazing together!** 
+
+[![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-0891b2?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/cnabildev)
+
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=cnabildev&color=0891b2&style=for-the-badge)
+  
+</div>
