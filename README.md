@@ -6,8 +6,8 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-cnabil.dev-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cnabil.dev)
   [![Email](https://img.shields.io/badge/Email-hi@cnabil.dev-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@cnabil.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-cnabildev-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cnabildev)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-cnabildev-0891b2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/cnabildev/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-cherradix-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherradix)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-cherradix-0891b2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/cherradix/)
 
 </div>
 
@@ -112,13 +112,13 @@ class NabilMouhssine extends SoftwareEngineer
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cnabildev&theme=react-dark&hide_border=true&bg_color=1F222E&color=0891b2&line=0891b2&point=F8F8F2" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cherradix&theme=react-dark&hide_border=true&bg_color=1F222E&color=0891b2&line=0891b2&point=F8F8F2" alt="Contribution Graph"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cnabildev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cherradix&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 
@@ -127,12 +127,12 @@ class NabilMouhssine extends SoftwareEngineer
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cnabildev/)
-[![GitHub](https://img.shields.io/badge/GitHub-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cnabildev)
-[![Twitter](https://img.shields.io/badge/Twitter-0891b2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cnabildev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0891b2?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cnabildev)
-[![Medium](https://img.shields.io/badge/Medium-0891b2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cnabildev)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0891b2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/cnabildev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherradix/)
+[![GitHub](https://img.shields.io/badge/GitHub-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cherradix)
+[![Twitter](https://img.shields.io/badge/Twitter-0891b2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cherradix)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0891b2?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cherradix)
+[![Medium](https://img.shields.io/badge/Medium-0891b2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cherradix)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0891b2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/cherradix)
 [![RSS Feed](https://img.shields.io/badge/RSS-0891b2?style=for-the-badge&logo=rss&logoColor=white)](https://cnabil.dev/feed)
 
 </div>
@@ -159,9 +159,9 @@ I'm always interested in collaborating on innovative projects, especially in:
 
 **Let's build something amazing together!** 
 
-[![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-0891b2?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/cnabildev)
+[![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-0891b2?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/cherradix)
 
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=cnabildev&color=0891b2&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=cherradix&color=0891b2&style=for-the-badge)
   
 </div>
