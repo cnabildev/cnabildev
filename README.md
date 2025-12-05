@@ -4,8 +4,8 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-cnabil.dev-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cnabil.dev)
-  [![Email](https://img.shields.io/badge/Email-hi@cnabil.dev-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@cnabil.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-cherradix.dev-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cherradix.dev)
+  [![Email](https://img.shields.io/badge/Email-hi@cherradix.dev-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@cherradix.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-cherradix-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherradix)
   [![LeetCode](https://img.shields.io/badge/LeetCode-cherradix-0891b2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/cherradix/)
 
@@ -133,7 +133,7 @@ class NabilMouhssine extends SoftwareEngineer
 [![Dev.to](https://img.shields.io/badge/Dev.to-0891b2?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cherradix)
 [![Medium](https://img.shields.io/badge/Medium-0891b2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cherradix)
 [![HackerRank](https://img.shields.io/badge/HackerRank-0891b2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/cherradix)
-[![RSS Feed](https://img.shields.io/badge/RSS-0891b2?style=for-the-badge&logo=rss&logoColor=white)](https://cnabil.dev/feed)
+[![RSS Feed](https://img.shields.io/badge/RSS-0891b2?style=for-the-badge&logo=rss&logoColor=white)](https://cherradix.dev/feed)
 
 </div>
 
